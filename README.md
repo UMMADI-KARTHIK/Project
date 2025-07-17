@@ -62,4 +62,3 @@ This project demonstrates how to build a **basic calculator using Arduino** that
 - Accepts input in form: `Number` → `Operator` → `Number` → `=`  
 - Displays the result on LCD
 
-### Example:
